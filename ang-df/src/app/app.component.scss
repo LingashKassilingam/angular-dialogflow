@@ -1,0 +1,20 @@
+.ang-df-section {
+    .title-container {
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .item-container {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+
+    df-messenger {
+        --df-messenger-bot-message: #b935fc;
+        --df-messenger-button-titlebar-color: #38bbf3;
+        --df-messenger-chat-background-color: #beedf7;
+        --df-messenger-font-color: white;
+        --df-messenger-send-icon: #fa0d50;
+        --df-messenger-user-message: #f90a65;
+    }
+}
